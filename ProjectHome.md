@@ -1,0 +1,1 @@
+Sistema de gestión de ventanas utilizando un dispositivo receptor de señales infrarrojas.
